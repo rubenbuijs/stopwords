@@ -1,0 +1,11 @@
+{
+    "name": "rubenbuijs/stopwords",
+    "description": "",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ruben Buijs",
+            "email": ""
+        }
+    ]
+}
